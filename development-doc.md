@@ -1304,11 +1304,7 @@ curl -X POST --data '{    "jsonrpc": "2.0",
 
 `String` - 当前连接网络的ID
 
-- "1": Ethereum Mainnet
-- "2": Morden Testnet (deprecated)
-- "3": Ropsten Testnet
-- "4": Rinkeby Testnet
-- "42": Kovan Testnet
+- "": Ontology Mainnet TODO
 
 #### 示例代码
 
